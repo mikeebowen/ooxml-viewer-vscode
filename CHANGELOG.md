@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [2.1.0] - 2026-04-01
+
+### Added
+
+- Add .xlam to the list of supported extensions [#54](https://github.com/yuenm18/ooxml-viewer-vscode/issues/54)
+
 ## [2.0.5] - 2025-07-02
 
 ### Fixed
@@ -130,7 +136,8 @@
 
 - Support for viewing the contents of OOXML documents
 
-[unreleased]: https://github.com/yuenm18/ooxml-viewer-vscode/compare/v2.0.5...HEAD
+[unreleased]: https://github.com/yuenm18/ooxml-viewer-vscode/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/yuenm18/ooxml-viewer-vscode/compare/v2.0.5...v2.1.0
 [2.0.5]: https://github.com/yuenm18/ooxml-viewer-vscode/compare/v2.0.4...v2.0.5
 [2.0.4]: https://github.com/yuenm18/ooxml-viewer-vscode/compare/v2.0.3...v2.0.4
 [2.0.3]: https://github.com/yuenm18/ooxml-viewer-vscode/compare/v2.0.2...v2.0.3
