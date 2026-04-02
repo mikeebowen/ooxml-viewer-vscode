@@ -77,7 +77,8 @@
           ".xltm",
           ".potx",
           ".sldx",
-          ".ppsx"
+          ".ppsx",
+          ".xlam"
         ]
       }
     ],
